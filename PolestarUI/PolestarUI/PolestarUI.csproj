@@ -18,14 +18,11 @@
     <Folder Include="Areas\Account\Controllers\" />
     <Folder Include="Areas\Account\Views\" />
     <Folder Include="Areas\Admin\Controllers\" />
-    <Folder Include="Areas\Admin\Data\" />
-    <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Admin\Views\" />
     <Folder Include="Areas\Customer\Controllers\" />
     <Folder Include="Areas\Customer\Views\" />
     <Folder Include="Areas\Vendor\Controllers\" />
     <Folder Include="Areas\Vendor\Views\" />
-    <Folder Include="wwwroot\CustomFiles\" />
   </ItemGroup>
 
 </Project>
